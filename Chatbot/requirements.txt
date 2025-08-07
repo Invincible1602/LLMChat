@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-google-genai
+pinecone-client
+langchain-pinecone
+pypdf
+tiktoken
+streamlit
+python-dotenv # If you're using a .env file
+numpy
